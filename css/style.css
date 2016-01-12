@@ -1,0 +1,15 @@
+/**
+* style.css
+* author: Irakli Zarandia. (PiraTa)
+* mail: zarandia.irakli@gmail.com
+*/
+#myCanvas{
+    border: solid 2px #22000B;
+    border-radius: 2px;
+    position:absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    margin:auto;
+}
